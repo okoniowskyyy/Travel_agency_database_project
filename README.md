@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this project is to design and implement a relational database that enforces business rules for a travel agency booking system.
+ Design and implement a relational database that enforces business rules for a travel agency booking system.
 
 ## Problem Description
 
