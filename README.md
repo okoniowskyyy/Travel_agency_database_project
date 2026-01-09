@@ -1,5 +1,9 @@
 # MS SQL Project
 
+## Database Schema
+
+![Database schema](Database_Schema.png)
+
 ## Purpose
 
  Design and implement a relational database that enforces business rules for a travel agency booking system.
